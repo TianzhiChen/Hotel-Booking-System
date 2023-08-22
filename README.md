@@ -48,3 +48,4 @@ The hotel reservation application will allow customers to find and book a hotel 
   - The app has try and catch blocks that are used to capture exceptions and provide useful information to the user.
   - There are no unhandled exceptions.
 
+![Image](https://github.com/TianzhiChen/Hotel-Booking-System/blob/main/images/Hotel%20Booking-AWS.jpg)
