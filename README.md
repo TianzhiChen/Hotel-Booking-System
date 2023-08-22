@@ -47,3 +47,4 @@ The hotel reservation application will allow customers to find and book a hotel 
 - No unhandled exceptions.
   - The app has try and catch blocks that are used to capture exceptions and provide useful information to the user.
   - There are no unhandled exceptions.
+
